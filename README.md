@@ -6,7 +6,7 @@ The idea is to do a step-by-step translation of Folgert Karsdorp's interactive c
 
 So here is the 1-item list of all the chapters done so far ;)
 
-- [Capítulo 1](http://nbviewer.ipython.org/github/lehkost/python-course/blob/master/Capítulo%201%20-%20Empezando.ipynb): Empezando.
+- [Capítulo 1](http://nbviewer.ipython.org/github/lehkost/curso-de-python/blob/master/Capítulo%201%20-%20Empezando.ipynb): Empezando.
 
 The original English-language course can be found [here](http://fbkarsdorp.github.io/python-course/).
 
